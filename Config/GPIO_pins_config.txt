@@ -1,0 +1,23 @@
+slot0_red	: GPIO_2/GPIO_20
+slot0_green 	: GPIO_3/GPIO_16
+slot1_red	: GPIO_4
+slot1_green 	: GPIO_14
+slot2_red	: GPIO_15
+slot2_green 	: GPIO_18
+slot3_red	: GPIO_17
+slot3_green 	: GPIO_27
+slot4_red	: GPIO_22
+slot4_green 	: GPIO_23
+
+ir0		: GPIO_21
+ir1		: GPIO_20/GPIO_3
+ir2		: GPIO_16/GPIO_2
+ir3		: GPIO_12
+ir4		: GPIO_7
+
+D7		: GPIO_11
+D6		: GPIO_5
+D5		: GPIO_6
+D4		: GPIO_13
+RS		: GPIO_26
+E		: GPIO_19
